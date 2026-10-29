@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+.pytest_cache/
+*.parquet
